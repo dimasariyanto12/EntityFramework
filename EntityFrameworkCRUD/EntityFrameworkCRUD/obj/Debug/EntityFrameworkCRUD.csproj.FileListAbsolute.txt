@@ -1,0 +1,15 @@
+C:\Users\dimas\source\repos\EntityFrameworkCRUD\EntityFrameworkCRUD\bin\Debug\EntityFrameworkCRUD.exe.config
+C:\Users\dimas\source\repos\EntityFrameworkCRUD\EntityFrameworkCRUD\bin\Debug\EntityFrameworkCRUD.exe
+C:\Users\dimas\source\repos\EntityFrameworkCRUD\EntityFrameworkCRUD\bin\Debug\EntityFrameworkCRUD.pdb
+C:\Users\dimas\source\repos\EntityFrameworkCRUD\EntityFrameworkCRUD\bin\Debug\EntityFramework.dll
+C:\Users\dimas\source\repos\EntityFrameworkCRUD\EntityFrameworkCRUD\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dimas\source\repos\EntityFrameworkCRUD\EntityFrameworkCRUD\bin\Debug\EntityFramework.xml
+C:\Users\dimas\source\repos\EntityFrameworkCRUD\EntityFrameworkCRUD\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dimas\source\repos\EntityFrameworkCRUD\EntityFrameworkCRUD\obj\Debug\EntityFrameworkCRUD.csprojAssemblyReference.cache
+C:\Users\dimas\source\repos\EntityFrameworkCRUD\EntityFrameworkCRUD\obj\Debug\EntityFrameworkCRUD.Form1.resources
+C:\Users\dimas\source\repos\EntityFrameworkCRUD\EntityFrameworkCRUD\obj\Debug\EntityFrameworkCRUD.Properties.Resources.resources
+C:\Users\dimas\source\repos\EntityFrameworkCRUD\EntityFrameworkCRUD\obj\Debug\EntityFrameworkCRUD.csproj.GenerateResource.cache
+C:\Users\dimas\source\repos\EntityFrameworkCRUD\EntityFrameworkCRUD\obj\Debug\EntityFrameworkCRUD.csproj.CoreCompileInputs.cache
+C:\Users\dimas\source\repos\EntityFrameworkCRUD\EntityFrameworkCRUD\obj\Debug\EntityFrameworkCRUD.csproj.CopyComplete
+C:\Users\dimas\source\repos\EntityFrameworkCRUD\EntityFrameworkCRUD\obj\Debug\EntityFrameworkCRUD.exe
+C:\Users\dimas\source\repos\EntityFrameworkCRUD\EntityFrameworkCRUD\obj\Debug\EntityFrameworkCRUD.pdb
